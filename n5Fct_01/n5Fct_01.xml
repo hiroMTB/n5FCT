@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Festo.FCT.FestoConfigurationTool.Project.xsl"?>
+<PROJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="n5Fct_01" Title="" Creation="2016-12-17" Author="hiro" Version="V1.0.0" LastModification="2017-01-09T14:55:51.3043992-08:00" SystemOfMeasurement="metric" xmlns="http://Festo.FCT.FestoConfigurationTool.Project">
+  <DESCRIPTION />
+  <ATTRIBUTES>
+    <ATTRIBUTE Name="SelectedTabIndex" Value="1" />
+  </ATTRIBUTES>
+  <HARDWARE>
+    <DEVICE DeviceInstanceName="R2" DeviceVendor="Festo" DeviceFamily="CMMP-AS" OpenModuleOnLoad="true" PlugInVersion="V2.5.0" />
+  </HARDWARE>
+</PROJECT>
