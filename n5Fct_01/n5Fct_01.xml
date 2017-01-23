@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="Festo.FCT.FestoConfigurationTool.Project.xsl"?>
-<PROJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="n5Fct_01" Title="" Creation="2016-12-17" Author="hiro" Version="V1.0.0" LastModification="2017-01-09T14:55:51.3043992-08:00" SystemOfMeasurement="metric" xmlns="http://Festo.FCT.FestoConfigurationTool.Project">
+<PROJECT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="n5Fct_01" Title="" Creation="2016-12-17" Author="hiro" Version="V1.0.0" LastModification="2017-01-15T20:06:45.5724859+09:00" SystemOfMeasurement="metric" xmlns="http://Festo.FCT.FestoConfigurationTool.Project">
   <DESCRIPTION />
   <ATTRIBUTES>
     <ATTRIBUTE Name="SelectedTabIndex" Value="1" />
